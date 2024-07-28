@@ -1,0 +1,24 @@
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\bin\Debug\Laboratorio 5 y 6.exe.config
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\bin\Debug\Laboratorio 5 y 6.exe
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\bin\Debug\Laboratorio 5 y 6.pdb
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio 5 y 6.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.Form1.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.Properties.Resources.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio 5 y 6.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio 5 y 6.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio 5 y 6.exe
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio 5 y 6.pdb
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_P2.P2.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_P6.P6.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_P3.P3.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_P4.P4.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_C1.C1.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_P1.P1.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_P5.P5.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_C3.C3.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_C5.C5.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_C4.C4.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_C9.C9.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_C7.C7.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_C8.C8.resources
+C:\Users\David\source\repos\Laboratorio 5 y 6\Laboratorio 5 y 6\obj\Debug\Laboratorio_5_y_6.EJERCICIO_C6.C6.resources
